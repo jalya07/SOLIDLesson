@@ -9,7 +9,8 @@ namespace LiskovSubstitution
 		//public virtual void Fly()
 		//{
 		//	Console.WriteLine(FlySpeed+" "+"Flied away");
-		//} 
+		//}
+
 		public virtual void Eat()
 		{
 			Console.WriteLine("grass");
