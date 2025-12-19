@@ -6,14 +6,12 @@ namespace OpenClose
 		//public void CookMushedPotato()
 		//{
 		//	//Console.WriteLine("Mushed potato is ready...");
-
   //      }
 
   //      public string CookMushedPotato()
   //      {
   //          //Console.WriteLine("Mushed potato is ready...");
   //          return "Mushed potato is ready.";
-
   //      }
 
   //      public void CookFrenchFries()
